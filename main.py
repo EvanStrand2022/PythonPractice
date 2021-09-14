@@ -1,14 +1,18 @@
-#Print 1st movie
-print("Bumblebee")
+def topFiveMovies():
+    #print the first movie
+    print("Bumblebee")
 
-#print 2nd movie
-print("Zach Snyder's Justice League")
+    #print second movie
+    print("Sonic The Hedghehog")
 
-#print 3rd  movie
-print("Sonic The Hedgehog")
+    #print third movie
+    print("Zach Snyder's Justice League")
 
-#print 4th movie
-print("Batman Begins")
+    #print fourth movie
+    print("Batman Begins")
 
-#print 5th movie
-print("Revenge of the Sith")
+    #print fifth movie
+    print("Revenge of the Sith"")
+
+print("these are my top five favorite movies.")
+topFiveMovies()
