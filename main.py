@@ -37,4 +37,12 @@ def topFiveCharacters():
     print("Makoto Niijima")
     #print fifth character
     print("Ahsoka Tano")
+
+#define function
+def myNameIs(name):
+        #output string
+        print(name + " is my name.")
+    #run function
+myNameIs("Evan")
+
 topFiveMovies()
