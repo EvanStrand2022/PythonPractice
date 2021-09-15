@@ -12,7 +12,7 @@ def topFiveMovies():
     print("Batman Begins")
 
     #print fifth movie
-    print("Revenge of the Sith"")
+    print("Revenge of the Sith")
 
 print("these are my top five favorite movies.")
 topFiveMovies()
