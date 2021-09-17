@@ -1,4 +1,4 @@
 #define function
-def madLib(adjective1, noun1, adjective2, noun2, place1, adjective3, adjective4, pluralnoun1, vehicle1, adjective5, adjective6, pluralnoun2, pluralnoun3, adjective7, noun3, verb1, adjective8, verb2, pluralnoun4, pluralnoun5, typeofjob1, adjective9, verb3, adjective10):
+def madLib(adjective1, noun1, adjective2, noun2, place1, adjective3, adjective4, pluralnoun1, vehicle1, adjective5, adjective6, pluralnoun2, pluralnoun3, adjective7, pluralnoun4, verb1, adjective8, verb2, pluralnoun5, pluralnoun6, typeofjob1, adjective9, verb3, adjective10):
     #output string
-    print("Star Wars is a "+adjective1+" "+noun1+" of "+adjective2+" versus evil in a "+noun3+" ; "+place1+" far far away. ")
+    print("Star Wars is a "+adjective1+" "+noun1+" of "+adjective2+" versus evil in a "+noun2+" ; "+place1+" far far away. There are "+adjective3+" battles between "+adjective4+" "+pluralnoun1+" ; "+vehicle1+" in "+adjective5+" space and "+adjective6+" duels with "+pluralnoun2+" called "+adjective7+" sabers. "+pluralnoun3+" called ''droids' are helpers and "+pluralnoun4+" to the heroes. A "+adjective8+" power called The "+noun3+" "+verb1+" s people to do "+adjective9+" things, like "+verb2+" "+pluralnoun5+" . The Jedi "+pluralnoun6+" "+typeofjob1+" use The Force for the "+adjective10+" ")
